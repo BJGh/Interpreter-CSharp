@@ -1,3 +1,5 @@
 # Interpreter CSharp
 
-## An attempt to create interpreter on C# Language
+## interpreter on C# Language (not finished)
+
+## (Will be dev soon!)
